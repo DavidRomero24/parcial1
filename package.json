@@ -1,0 +1,14 @@
+{
+  "name": "parcia1b-iisem2023-davidromero24",
+  "version": "1.0.0",
+  "description": "creacion de la imagen del parcial 1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "David Romero 192148",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
